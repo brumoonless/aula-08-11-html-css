@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+
+div.container {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: brown;
+    font-size: 32px;
+}
+
+.form-group {
+    color: rgb(50, 26, 115);
+}
+
+form {
+    border: 1px solid rgb(111, 32, 32);
+    margin: 10px 100px 100px 100px;
+    padding: 10px 10px 10px 10px;
+}
